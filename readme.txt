@@ -61,6 +61,8 @@ http://plugins.webegenius.es/e-carousel/
 == Screenshots ==
 
 1. Installation  E-carousel
+ 
+ 
 
 
 == Changelog ==
