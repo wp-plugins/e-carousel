@@ -60,7 +60,8 @@ http://plugins.webegenius.es/e-carousel/
 
 == Screenshots ==
 
-1. Installation  E-carousel
+1. Add E-carousel images
+1. Using Shortcode in post or pages 
  
  
 
