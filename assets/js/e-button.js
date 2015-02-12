@@ -24,7 +24,7 @@
 									],
 								
 									onsubmit: function( e ) {  
-										editor.insertContent( '[e_carousel post_type="' + e.data.post_name + ']');
+										editor.insertContent( '[e_carousel post_type="' + e.data.post_name + '"]');
 									}
 								});
 							
